@@ -1,8 +1,8 @@
-##ECNULoginService
+## ECNULoginService
 An easy-access to ECNU login database
 
 
-###Usage
+### Usage
 ```
 import com.networkService.ECNULoginService;
 import java.io.IOException;
